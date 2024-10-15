@@ -17,3 +17,5 @@ run the executable:
 ```micstatus /dev/tty.usbmodem69420 9600```
 
 The microbit will now light up any time your microphone is active (even when you're muted). Hurray!
+
+P.S.: I included an STL file for a clip designed to allow you to easily hang the microbit off the backside of your Macbook lid, the nubs fit into the holes and it hangs upside down because it's awkward to have the USB port on the top.
